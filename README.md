@@ -4,5 +4,5 @@
 #### 1. 2gis parser for links
 Here we get the links to each object of defined categories and subcategories by going through the pages simulating clicks. Otherwise, 2gis does not allow to go to the n-th page of categories by link.
 
-#### 2. 2gis parser for objects via their links
+#### 2. 2gis parser for objects via links
 In this file, we parser data via links to objects sorted by their categories and subcategories.
